@@ -1,2 +1,10 @@
+requests
+bs4
 exrex
 chepy
+scapy
+colorama
+mitmproxy
+Pillow
+pandas
+requests_html
